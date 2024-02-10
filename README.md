@@ -10,7 +10,7 @@ Library contains ``` NCtoIDF(folder, ids)``` function which accepts folder path 
 
 ```R
 # install.packages("devtools")
-devtools::install_github(repo = "strnda/advRpckg")
+devtools::install_github(repo = "Zarrett/NCIDFViewer")
 ```
 
 ```R
