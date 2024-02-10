@@ -1,0 +1,11 @@
+Package: NCIDFViewer
+Type: Package
+Title: Reads NC data and plots IDF curves
+Version: 0.0.1
+Author: Danyil Tkachenko
+Maintainer: The package maintainer <danieltkachenko2@gmail.com>
+Description: Gets data from all nc files, provided in a folder and generated IDF curves by the provided cell IDs
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
